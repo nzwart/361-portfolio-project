@@ -1,0 +1,32 @@
+// Define the Monster type to match the JSON structure
+type Monster = {
+    index: string;
+    name: string;
+    size: string;
+    type: string;
+    alignment: string;
+    armor_class: string;
+    hit_points: string;
+    hit_dice: string;
+    speed: string;
+    strength: string;
+    dexterity: string;
+    constitution: string;
+    intelligence: string;
+    wisdom: string;
+    charisma: string;
+    proficiencies: string;
+    damage_vulnerabilities: string;
+    damage_resistances: string;
+    damage_immunities: string;
+    condition_immunities: string;
+    senses: string;
+    languages: string;
+    challenge_rating: string;
+    xp: string;
+    special_abilities: string;
+    actions: string;
+    legendary_actions: string;
+    image: string;
+    url: string;
+};
