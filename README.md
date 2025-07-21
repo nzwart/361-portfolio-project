@@ -1,6 +1,6 @@
 # D&D Combat Encounter Builder and Password-gen Microservice
 
-For my Software Engineering I class at OSU, my portfolio project was two related but separate challenges:
+For my Software Engineering I class at OSU, my portfolio project was comprised of two related but separate challenges:
 
 -   Build a full-stack web application
 -   Create a microservice that another classmate's application could consume
